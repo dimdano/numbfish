@@ -1,0 +1,7 @@
+[
+   {
+      "name": "numbfish",
+      "command": "python3 -u uci.py",
+      "protocol": "uci"
+   }
+]
