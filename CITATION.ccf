@@ -1,0 +1,12 @@
+cff-version: 1.0
+preferred-citation:
+  type: software
+  message: If you use this software, please cite it as below.
+  authors:
+  - family-names: Danopoulos
+    given-names: Dimitrios
+    orcid: "https://orcid.org/0000-0001-9327-5983"
+  title: "Numbfish: A strong python chess bot running on 1-thread "
+  version: 1.0.0
+  date-released: 1-12-2022
+  license: GPL-3.0
